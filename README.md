@@ -24,7 +24,7 @@ head over [npmjs.org](http://npmjs.org) for instructions on how to install npm
 
 ## step 5
 
-	$ git clone [this repo](git://github.com/philippkueng/nodejs-mongodb-twitter-backup.git)
+	$ git clone git://github.com/philippkueng/nodejs-mongodb-twitter-backup.git
 
 Then start the mongoDB database by typing `mongod`
 After that start the node.js server with the script by typing node `get_tweet_and_store_it_in_db.js`
