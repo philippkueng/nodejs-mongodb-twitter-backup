@@ -31,7 +31,7 @@ After that start the node.js server with the script by typing node `get_tweet_an
 
 ## while / after running the script
 
-start the mongoDB shell with `mongo`. 
+start the mongoDB shell with `mongo`
 you then can do a find query with `db.wt.find({'user.screen_name','screen_name_im_looking_for'})`
 
 you'll find more queries and examples in the [mongoDB documentation](http://www.mongodb.org/display/DOCS/Home).
