@@ -10,8 +10,8 @@ db.open(function()
 	db.collection('wt', function(err, collection){
 		
 		var tn = new TwitterNode({
-			user: 'bitfondue',
-			password: '8egukuStaQEvahephapH4PrU7HeyetaGephaRu8a',
+			user: 'username',
+			password: 'password',
 			track: ['webtuesday']
 		});
 		var counter = 475000;
